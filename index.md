@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Washington DC/ Lagos, Nigeria"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/noble-adike/
+linkedin: https://www.linkedin.com/in/noble-adike-2356b2324/
 image: /assets/images/Adike_Noble_HowardUniversity.jpeg
 ---
