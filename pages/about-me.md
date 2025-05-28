@@ -20,7 +20,7 @@ about:
       title: Soccer Lover
       description: I love playing pickup matches with friends and following major leagues—whether it’s Champions League pr the Premier league or even Nigeria's National Team.
   
-  - icon: 🎮
+    - icon: 🎮
       title: Gaming
       description: From competitive online shooters to sport games, I’m always up for a tough challenge or co-op session with friends.
   
