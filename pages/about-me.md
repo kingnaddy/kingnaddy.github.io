@@ -20,7 +20,7 @@ about:
       title: Soccer Lover
       description: I love playing pickup matches with friends and following major leagues—whether it’s Champions League pr the Premier league or even Nigeria's National Team.
   
-    - icon: 🎮
+  - icon: 🎮
       title: Gaming
       description: From competitive online shooters to sport games, I’m always up for a tough challenge or co-op session with friends.
   
@@ -28,7 +28,7 @@ about:
       title: Basketball Fan
       description: You’ll catch me courtside cheering on the Lakers and Luka Doncic.
 
-     - icon: 🏋️‍♂️
+    - icon: 🏋️‍♂️
       title: Gym Enthusiast
       description: I recently started following a regular gym routine combining strength training and cardio to stay fit and build muscle.
 
