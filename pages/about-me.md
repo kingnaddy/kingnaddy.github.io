@@ -4,27 +4,35 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Noble Adike
+  role: Rising Sophomore, Computer Science Major at Howard University
+  image: /assets/images/noble.jpg
+  linkedin: https://www.linkedin.com/in/noble-adike-2356b2324/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m a rising sophomore studying Computer Science at Howard University in Washington, D.C., and I’m proud to be from the great country of Nigeria 🇳🇬.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My passions lie at the intersection of AI and software engineering—whether that’s building intelligent prototypes for my USPTO project, contributing to hackathons like BisonHacks, or developing Flask apps like “Wakanda - Shuri’s Gauntlet.”
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    On campus, I’m active in the Google Developer Club, IEEE, and the Howard University Student Council. When I’m not coding, I enjoy mentoring fellow students, playing jazz trumpet, and tinkering with Raspberry Pi and side AI projects in my free time.
+---
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: ⚽
+      title: Soccer Lover
+      description: I love playing pickup matches with friends and following major leagues—whether it’s Champions League pr the Premier league or even Nigeria's National Team.
+  
+    - icon: 🎮
+      title: Gaming
+      description: From competitive online shooters to sport games, I’m always up for a tough challenge or co-op session with friends.
+  
+    - icon: 🏀
+      title: Basketball Fan
+      description: You’ll catch me courtside cheering on the Lakers and Luka Doncic.
+
+     - icon: 🏋️‍♂️
+      title: Gym Enthusiast
+      description: I recently started following a regular gym routine combining strength training and cardio to stay fit and build muscle.
+
 
   gallery:
     - image: /assets/images/me-guitar.png
