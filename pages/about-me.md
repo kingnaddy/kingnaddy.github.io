@@ -14,9 +14,8 @@ about:
     My passions lie at the intersection of AI and software engineering—whether that’s building intelligent prototypes for my USPTO project, contributing to hackathons like BisonHacks, or developing Flask apps like “Wakanda - Shuri’s Gauntlet.”
 
     On campus, I’m active in the Google Developer Club, IEEE, and the Howard University Student Council. When I’m not coding, I enjoy mentoring fellow students, playing jazz trumpet, and tinkering with Raspberry Pi and side AI projects in my free time.
----
 
-hobbies:
+  hobbies:
     - icon: ⚽
       title: Soccer Lover
       description: I love playing pickup matches with friends and following major leagues—whether it’s Champions League pr the Premier league or even Nigeria's National Team.
@@ -34,13 +33,13 @@ hobbies:
       description: I recently started following a regular gym routine combining strength training and cardio to stay fit and build muscle.
 
 
-gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+  gallery:
+      - image: /assets/images/me-guitar.png
+        caption: Playing guitar at the park!
+      - image: /assets/images/me-basketball.png
+        caption: Hooping and dropping people off at the park 🏀
+      - image: /assets/images/me.jpg
+        caption: My favorite portrait of myself :)
+      - image: /assets/images/me-pi.png
+        caption: Working on a personal project w/ the Raspberry PI
 ---
