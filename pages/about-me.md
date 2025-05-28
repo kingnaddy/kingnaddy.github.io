@@ -11,10 +11,10 @@ about:
   bio: |
     I’m a rising sophomore studying Computer Science at Howard University in Washington, D.C., and I’m proud to be from the great country of Nigeria 🇳🇬.
 
-    My passions lie at the intersection of AI and software engineering—whether that’s building intelligent prototypes for my USPTO project, contributing to hackathons like BisonHacks, or developing Flask apps like “Wakanda - Shuri’s Gauntlet.”
+    My passions lie at the intersection of AI and software engineering—whether that’s building personal projects, contributing to hackathons , or collaborating on research work”
 
-    On campus, I’m active in the Google Developer Club, IEEE, and the Howard University Student Council. When I’m not coding, I enjoy mentoring fellow students, playing jazz trumpet, and tinkering with Raspberry Pi and side AI projects in my free time.
-
+    On campus, I’m active in the Google Developer Club, IEEE, African Students Association and the Howard University Student Council. 
+    
   hobbies:
     - icon: ⚽
       title: Soccer Lover
