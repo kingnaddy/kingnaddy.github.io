@@ -4,23 +4,29 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Oluwafemi Ifesanmi
+  title: Masters Student, Advanced Computing
+  image: /assets/images/gradstudent.jpg
+  website: https://www.linkedin.com/in/oluwafemi-ifesanmi/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Oluwafemi Ifesanmi is a goal-oriented, diligent, young man with a drive for excellence. He possesses excellent interpersonal skills, pleasant personality, industrious ability and a sound analytical mindset. He is on a path to building a career which reflects his passion while he makes contribution to the development of any organization he finds himself. 
+
+    Oluwafemi has fervent passion for leveraging technology to drive innovation, where he brings unique blend of technical expertise and strategic insight to every project. His experience in software development, project management, and IT controls has equipped him with the skills to navigate complex challenges and deliver exceptional results.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Steve Efe
+  title: Associate Professor, Morgan State University
+  image: /assets/images/facultymentor.jpg
+  website: https://www.linkedin.com/in/drsteveefe/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Driven by a passion for leveraging cutting-edge technologies to solve real-world engineering challenges, Steve Efe is a civil engineering professor and AI-certified scientist with over 15 years of experience in research, teaching, and infrastructure innovation. His expertise spans smart infrastructure design, transportation systems, and sustainable urban development, with a focus on applying AI, machine learning, and advanced materials to enhance the resilience and longevity of infrastructure systems.
+
+    He has successfully led and collaborated on multiple nationally funded research projects, securing over $2 million in grants from prestigious organizations such as the National Science Foundation (NSF), the Department of Energy (DOE), and the Department of Transportation (DOT). His current work includes pioneering efforts to develop hybrid biomimetic adhesives for aging infrastructures and implementing AI-driven strategies to optimize infrastructure sustainability.
+
+    Beyond research, he is deeply committed to mentoring the next generation of engineers. He has created inclusive mentoring programs for underrepresented students, guiding them to excel in STEM disciplines and pursue leadership roles in engineering and technology. He also collaborates with industry leaders and academic institutions to design forward-thinking engineering curricula that integrate emerging technologies and real-world problem-solving.
+
+    Whether you’re seeking innovative solutions to complex infrastructure challenges, looking to partner on groundbreaking research, or interested in mentorship programs that promote diversity in STEM, he welcomes the opportunity to connect and explore synergies.
 
 ---
