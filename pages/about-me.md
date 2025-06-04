@@ -31,12 +31,12 @@ about:
 
 
   gallery:
-      - image: /assets/images/me-guitar.png
-        caption: Playing guitar at the park!
-      - image: /assets/images/me-basketball.png
-        caption: Hooping and dropping people off at the park 🏀
-      - image: /assets/images/me.jpg
-        caption: My favorite portrait of myself :)
-      - image: /assets/images/me-pi.png
-        caption: Working on a personal project w/ the Raspberry PI
+      - image: /assets/images/hackathon.jpg
+        caption: Me competing at a hackathon with my team
+      - image: /assets/images/bbgame.jpg
+        caption: Me watching a basketball game with friends 🏀
+      - image: /assets/images/parkpic.jpg
+        caption: Me goofing around in the park
+      - image: /assets/images/researchpres.jpg
+        caption: Me presenting research at a symposium. 
 ---
