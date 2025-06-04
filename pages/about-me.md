@@ -9,11 +9,8 @@ about:
   image: /assets/images/Adike_Noble_HowardUniversity.jpeg
   linkedin: https://www.linkedin.com/in/noble-adike-2356b2324/
   bio: |
-    I’m a rising sophomore studying Computer Science at Howard University in Washington, D.C., and I’m proud to be from the great country of Nigeria 🇳🇬.
+    I’m a rising sophomore studying Computer Science at Howard University in Washington, D.C., and I’m proud to be from the great country of Nigeria 🇳🇬. I would describe myself as a computer science enthusiast eager to expand my knowledge and skills in the field of Technology. I am dedicated to continuous personal and professional growth, driven by a strong work ethic. My passions lie in transforming the world with AI and Robotics.
 
-    My passions lie at the intersection of AI and software engineering—whether that’s building personal projects, contributing to hackathons , or collaborating on research work”
-
-    On campus, I’m active in the Google Developer Club, IEEE, African Students Association and the Howard University Student Council. 
     
   hobbies:
     - icon: ⚽
