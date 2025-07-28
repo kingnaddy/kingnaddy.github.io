@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day 45 – Morgan Symposium and Tackling Class Imbalance in ML"
+date: 2025-07-28
+author: Noble Adike
+permalink: /day45.html
+tags: ["Symposium", "Machine Learning", "Class Imbalance", "SMOTE", "Threshold Tuning", "Confusion Matrix", "Research Paper"]
+
+what_i_learned: |
+  Presenting at the Morgan State School of Engineering Symposium was a valuable experience that gave us insight into how to improve our final demo. It helped us reassess presenter roles and tighten our communication for Thursday. In the lab, I dove deep into improving the results section of our paper by diagnosing and addressing serious class imbalance in our urgency classification model. I applied class-weighted loss and implemented SMOTE to boost the performance of underrepresented classes. I also learned to tune decision thresholds using PR curves, aligning performance with operational goals like high recall for urgent bins.
+
+blockers: |
+  Imbalanced classes made our initial classification report misleading and inflated performance for the majority class. Fine-tuning thresholds across multiple classes introduced trade-offs that were hard to resolve in a single model pipeline.
+
+reflection: |
+  Today showed me how technical research and communication skills go hand in hand. Presenting at the symposium gave us great feedback on both our delivery and technical content. Meanwhile, working on the model taught me that surface-level accuracy isn't enough—true performance lies in how the model handles minority classes. Learning to use class weighting, SMOTE, and threshold tuning helped me understand the subtle mechanics of real-world ML pipelines. When these still didn’t meet all objectives, I had to think structurally—sketching out a two-stage classifier to isolate the most critical cases. It was one of my most intellectually demanding days so far, but incredibly rewarding.
+---
