@@ -1,14 +1,18 @@
-# CEAMLS SAIRI Summer Site – User Guide
+# Noble Adike’s Summer 2025 Research Blog
 
-Welcome! This repository hosts your personal research site built on Jekyll + Minimal theme. Below you’ll find everything you need to:
+Welcome! This repo contains the source code for **my personal research website**, built with Jekyll + the Minimal theme. Inside you’ll find daily reflections, an overview of my summer project, and shout-outs to the mentors who helped me grow.
 
-* Add new daily blog posts
-* Edit your **About Me**, **About My Mentors**, and **About My Project** pages
-* Manage images and assets
-* Tweak your configuration (`_config.yml`)
-* Run & deploy locally or to GitHub Pages
+[🔗 View the live site → kingnaddy.github.io](https://kingnaddy.github.io)
+
+Recruiters & collaborators, feel free to jump to:
+
+- **Daily Reflections** – Track my learning curve and problem-solving approach  
+- **About Me** – My background, core skills, and career interests  
+- **Mentor Spotlights** – Meet the experts guiding my research  
+- **Project Overview** – Goals, methods, and results of the summer work  
 
 ---
+
 
 ## 📂 Project Structure
 
@@ -18,7 +22,7 @@ Welcome! This repository hosts your personal research site built on Jekyll + Min
 ├── _posts/               ← Daily blog posts (YYYY-MM-DD-slug.md)
 ├── pages/                ← Standalone pages (about-*.md, my-blog.md, index.md)
 ├── assets/
-│   ├── css/style.scss    ← Your custom SCSS overrides
+│   ├── css/style.scss    ← Custom SCSS overrides
 │   └── images/           ← Store profile, mentor, project, blog images here
 └── README.md             ← This guide
 ```
@@ -86,12 +90,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Michael Adeleke
-  role: Senior, Computer Science Major at Morgan State University
+  name: Noble Adike
+  role: Sophomore, Computer Science Major at Howard University
   image: /assets/images/me.jpg
-  linkedin: https://linkedin.com/in/michael-adeleke-4a1228217/
+  linkedin: https://www.linkedin.com/in/noble-adike-2356b2324/
   bio: |
-    I’m a senior at Morgan State University …
+    I’m a sophomore at Howard University …
 ---
 ```
 
@@ -150,4 +154,4 @@ Just push to `main`. GitHub Pages will build your site automatically.
 
 ---
 
-Enjoy writing and sharing your research journey! 📚💼
+Enjoy writing and sharing your journeys! 📚💼
