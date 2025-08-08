@@ -35,7 +35,7 @@ Open `_config.yml` and set:
 
 ```yaml
 title: "YOUR NAME"  
-description: "CEAMLS SAIRI Summer 2025 Research Site"  
+description: " Description about your site"  
 remote_theme: pages-themes/minimal@v0.2.0  
 plugins:
   - jekyll-remote-theme
